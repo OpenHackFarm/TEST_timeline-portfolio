@@ -1,0 +1,73 @@
+
+{
+    "timeline":
+    {
+        "headline":"Johnny B Goode",
+        "type":"default",
+		"startDate":"2015,10,28",
+		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
+		"asset":
+        {
+            "media":"assets/img/notes.png",
+            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"2015,10,28",
+                "headline":"播種",
+                "text":"條播",
+                "asset":
+                {
+                    "media":"assets/img/shots/cN2IbZ4.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,11,06",
+                "headline":"三出葉",
+                "text":" ",
+                "asset":
+                {
+                    "media":"assets/img/shots/IpM8VL9.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,11,08",
+                "headline":"發現有病蟲害",
+                "text":"黃條葉蚤",
+                "asset":
+                {
+                    "media":"assets/img/shots/c5WV2VX.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,11,09",
+                "headline":"防治",
+                "text":"噴酵素+辣椒水",
+                "asset":
+                {
+                    "media":"assets/img/shots/GCTrWFt.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,11,25",
+                "headline":"發現瓢蟲",
+                "text":" ",
+                "asset":
+                {
+                    "media":"assets/img/shots/it1PDH7.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
